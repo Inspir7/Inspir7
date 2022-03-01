@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Inspir7
-- 👀 I’m interested in Computer Science and Sleeping.
+- 👀 I’m interested in IT and Finance.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
