@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inspir7
+- 👋 Hi, I’m @Inspir7!
 - 👀 I’m interested in IT and Finance.
 - 🌱 I’m currently learning Computer Science.
 - 📫 How to reach me: https://www.linkedin.com/in/presiyana-d-682823134/
